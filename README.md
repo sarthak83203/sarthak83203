@@ -42,5 +42,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthak83203/sarthak83203/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sarthak83203/sarthak83203/output/pacman-contribution-graph.svg">
 </picture>
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ###
