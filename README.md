@@ -2,7 +2,7 @@
   <span style="
     font-size: 48px;
     font-weight: 800;
-    background: linear-gradient(90deg, #0A66C2, #0047AB, #0E75B6);
+    background: linear-gradient(90deg, #4facfe, #00f2fe, #0e75b6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   ">
@@ -44,9 +44,13 @@
 
 ### 🌐 Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/in/sarthak-shinde-94169431a/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+  <a href="https://www.linkedin.com/in/sarthak-shinde-94169431a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email-here@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
 ---
