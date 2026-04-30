@@ -1,9 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sarthak" />
-</h1>
+<!-- 🔥 TOP BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:003366&height=200&section=header&text=Sarthak&fontSize=60&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20AI%2FML%20|%20Scalable%20Systems&descAlignY=60&descSize=18" />
+</p>
 
+---
+
+<!-- 🔵 DYNAMIC TYPING -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Backend+Developer;Exploring+AI%2FML;Building+Scalable+Systems;Clean+Code+Advocate;System+Design+Enthusiast;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Backend+Developer;Exploring+AI%2FML;Building+Scalable+Systems;Clean+Code+Advocate;System+Design+Enthusiast" />
 </h3>
 
 ---
@@ -16,12 +20,11 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sarthak83203&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
+<!-- 📊 STATS BAR STYLE -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthak83203&theme=onedark" />
+  <img src="https://komarev.com/ghpvc/?username=sarthak83203&label=Profile%20Views&color=0E75B6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sarthak83203?label=Followers&style=for-the-badge&color=0E75B6" />
+  <img src="https://img.shields.io/github/stars/sarthak83203?label=Stars&style=for-the-badge&color=0E75B6" />
 </p>
 
 ---
