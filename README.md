@@ -1,13 +1,5 @@
 <h1 align="center">
-  <span style="
-    font-size: 48px;
-    font-weight: 800;
-    background: linear-gradient(90deg, #4facfe, #00f2fe, #0e75b6);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">
-    Hi 👋, I'm Sarthak
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sarthak" />
 </h1>
 
 <h3 align="center">
@@ -17,7 +9,7 @@
 ---
 
 <!-- 🔥 TWO GIFS -->
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="400"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
@@ -29,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthak83203&theme=onedark&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthak83203&theme=onedark" />
 </p>
 
 ---
@@ -37,8 +29,8 @@
 ### 🚀 About Me
 - 🔭 Currently working on **CollabSphere**
 - 💡 Interested in **Backend Development & AI/ML**
-- ⚙️ Love building **scalable and efficient systems**
-- 🧠 Exploring **System Design & Distributed Systems**
+- ⚙️ Love building **scalable systems**
+- 🧠 Exploring **System Design**
 
 ---
 
@@ -48,7 +40,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email-here@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
@@ -64,15 +56,14 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak83203&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak83203&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarthak83203&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak83203&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak83203&layout=compact&theme=tokyonight" height="170"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak83203&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
