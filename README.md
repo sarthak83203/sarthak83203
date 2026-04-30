@@ -22,11 +22,11 @@
 
 <!-- 📊 FIXED STATS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthak83203&label=Profile%20Views&color=ff7b00&style=flat" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/sarthak83203?label=Followers&color=ff7b00&style=flat" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/sarthak83203?label=Stars&color=ff7b00&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sarthak83203&label=Profile%20Views&color=ff7b00&style=flat" style="transform: scale(1.2); margin: 0 10px;" />
+  
+  <img src="https://img.shields.io/github/followers/sarthak83203?label=Followers&color=ff7b00&style=flat" style="transform: scale(1.2); margin: 0 10px;" />
+  
+  <img src="https://img.shields.io/github/stars/sarthak83203?label=Stars&color=ff7b00&style=flat" style="transform: scale(1.2); margin: 0 10px;" />
 </p>
 
 ---
