@@ -1,5 +1,8 @@
 <!-- 🔥 PREMIUM BANNER (NEW COLOR STYLE) -->
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&pause=1000&color=FF7B00&center=true&vCenter=true&width=900&height=120&lines=Hi+👋,+I'm+Sarthak;Backend+Engineer;AI%2FML+Explorer;Scalable+Systems+Builder" />
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7b00,50:ff00cc,100:3333ff&height=4&section=header"/>
 </p>
 
