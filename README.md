@@ -1,39 +1,39 @@
-<!-- 🔥 TOP BANNER -->
+<!-- 🔥 PREMIUM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:003366&height=200&section=header&text=Sarthak&fontSize=60&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20AI%2FML%20|%20Scalable%20Systems&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0E75B6,100:00C6FF&height=220&section=header&text=Sarthak&fontSize=65&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20•%20AI%2FML%20Explorer%20•%20Scalable%20Systems&descAlignY=65&descSize=20" />
 </p>
 
 ---
 
-<!-- 🔵 DYNAMIC TYPING -->
+<!-- 🔵 ENHANCED TYPING -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Backend+Developer;Exploring+AI%2FML;Building+Scalable+Systems;Clean+Code+Advocate;System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Designing+Scalable+Backend+Systems;Exploring+AI%2FML+Integration;Writing+Clean+%26+Maintainable+Code;Building+Projects+That+Matter;Always+Learning+%26+Improving" />
 </h3>
 
 ---
 
-<!-- 🔥 TWO GIFS -->
+<!-- 🔥 VISUAL SECTION -->
 <div align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 </div>
 
 ---
 
-<!-- 📊 STATS BAR STYLE -->
+<!-- 📊 MODERN STATS BAR -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthak83203&label=Profile%20Views&color=0E75B6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sarthak83203?label=Followers&style=for-the-badge&color=0E75B6" />
-  <img src="https://img.shields.io/github/stars/sarthak83203?label=Stars&style=for-the-badge&color=0E75B6" />
+  <img src="https://komarev.com/ghpvc/?username=sarthak83203&label=PROFILE+VIEWS&color=00AEEF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sarthak83203?label=FOLLOWERS&style=for-the-badge&color=00AEEF" />
+  <img src="https://img.shields.io/github/stars/sarthak83203?label=STARS&style=for-the-badge&color=00AEEF" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **CollabSphere**
-- 💡 Interested in **Backend Development & AI/ML**
-- ⚙️ Love building **scalable systems**
-- 🧠 Exploring **System Design**
+- 🔭 Working on **CollabSphere**
+- 💡 Passionate about **Backend Development & AI/ML**
+- ⚙️ Focused on **Performance, Scalability & Clean Architecture**
+- 🧠 Learning **System Design & Distributed Systems**
 
 ---
 
@@ -60,12 +60,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak83203&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak83203&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak83203&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak83203&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak83203&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak83203&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
