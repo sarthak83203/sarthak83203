@@ -1,16 +1,22 @@
 <h1 align="center">
-  <span style="font-size: 42px; font-weight: bold; background: linear-gradient(90deg, #00F7FF, #0E75B6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  <span style="
+    font-size: 48px;
+    font-weight: 800;
+    background: linear-gradient(90deg, #0A66C2, #0047AB, #0E75B6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  ">
     Hi 👋, I'm Sarthak
   </span>
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Backend+Developer;Exploring+AI%2FML;Building+Scalable+Systems;Clean+Code+Advocate;System+Design+Enthusiast;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=003366&center=true&vCenter=true&width=750&lines=Backend+Developer;Exploring+AI%2FML;Building+Scalable+Systems;Clean+Code+Advocate;System+Design+Enthusiast;Open+Source+Learner" />
 </h3>
 
 ---
 
-<!-- 🔥 TWO GIFS SIDE BY SIDE -->
+<!-- 🔥 TWO GIFS -->
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="400"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
