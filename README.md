@@ -1,6 +1,6 @@
 <!-- 🔥 PREMIUM BANNER (NEW COLOR STYLE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=180&section=header&text=Sarthak&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Intelligent%20Solutions%20•%20Backend%20Systems%20•%20Scalable%20Architecture&descAlignY=70&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7b00,50:ff00cc,100:3333ff&height=4&section=header"/>
 </p>
 
 ---
