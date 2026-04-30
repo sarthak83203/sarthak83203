@@ -5,13 +5,15 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Backend+Developer;Exploring+AI%2FML;Building+Scalable+Systems;Clean+Code+Advocate;System+Design+Enthusiast;Always+Learning+New+Technologies;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Backend+Developer;Exploring+AI%2FML;Building+Scalable+Systems;Clean+Code+Advocate;System+Design+Enthusiast;Open+Source+Learner" />
 </h3>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<!-- 🔥 TWO GIFS SIDE BY SIDE -->
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
 ---
