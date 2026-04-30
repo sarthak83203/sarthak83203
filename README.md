@@ -1,13 +1,13 @@
-<!-- 🔥 PREMIUM BANNER -->
+<!-- 🔥 PREMIUM BANNER (UPDATED COLORS) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0E75B6,100:00C6FF&height=220&section=header&text=Sarthak&fontSize=65&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20•%20AI%2FML%20Explorer%20•%20Scalable%20Systems&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Sarthak&fontSize=65&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20•%20AI%2FML%20Explorer%20•%20Scalable%20Systems&descAlignY=65&descSize=20" />
 </p>
 
 ---
 
 <!-- 🔵 ENHANCED TYPING -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Designing+Scalable+Backend+Systems;Exploring+AI%2FML+Integration;Writing+Clean+%26+Maintainable+Code;Building+Projects+That+Matter;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Designing+Scalable+Backend+Systems;Exploring+AI%2FML+Integration;Writing+Clean+%26+Maintainable+Code;Building+Projects+That+Matter;Always+Learning+%26+Improving" />
 </h3>
 
 ---
@@ -22,9 +22,9 @@
 
 <!-- 📊 MODERN STATS BAR -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthak83203&label=PROFILE+VIEWS&color=00AEEF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sarthak83203?label=FOLLOWERS&style=for-the-badge&color=00AEEF" />
-  <img src="https://img.shields.io/github/stars/sarthak83203?label=STARS&style=for-the-badge&color=00AEEF" />
+  <img src="https://komarev.com/ghpvc/?username=sarthak83203&label=PROFILE+VIEWS&color=00C9FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sarthak83203?label=FOLLOWERS&style=for-the-badge&color=00C9FF" />
+  <img src="https://img.shields.io/github/stars/sarthak83203?label=STARS&style=for-the-badge&color=00C9FF" />
 </p>
 
 ---
