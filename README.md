@@ -20,9 +20,13 @@
 
 ---
 
-<!-- ✨ CLEAN DIVIDER (REPLACED BADGES) -->
+<!-- 📊 FIXED STATS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7b00,100:5f0f40&height=3"/>
+  <img src="https://komarev.com/ghpvc/?username=sarthak83203&label=Profile%20Views&color=ff7b00&style=flat" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/sarthak83203?label=Followers&color=ff7b00&style=flat" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/sarthak83203?label=Stars&color=ff7b00&style=flat" />
 </p>
 
 ---
