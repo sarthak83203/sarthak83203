@@ -1,20 +1,24 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sarthak;Backend+Developer;Exploring+AI%2FML;Building+Scalable+Systems" />
-</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00F7FF;">Sarthak</span></h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Focused+on+Performance;Clean+Architecture+Advocate;Problem+Solver;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Backend+Developer;Exploring+AI%2FML;Building+Scalable+Systems;Focused+on+Performance+%26+Clean+Architecture" />
 </h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</div>
+
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sarthak83203&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sarthak83203&theme=onedark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sarthak83203&theme=onedark&margin-w=10&margin-h=10" />
   </a>
 </p>
 
@@ -37,7 +41,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,docker,firebase,gcp,html,java,js,linux,mongodb,mysql,nodejs,opencv,postgres,python,react,ts" />
 </p>
 
@@ -45,16 +49,16 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak83203&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak83203&show_icons=true&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak83203&show_icons=true&locale=en&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak83203&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak83203&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak83203&theme=tokyonight" />
 </p>
 
 ---
