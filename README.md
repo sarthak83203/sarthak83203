@@ -1,12 +1,11 @@
-<!-- 🔥 PREMIUM BANNER (NEW COLOR STYLE) -->
+<!-- 🔥 ANIMATED NAME HEADER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&pause=1200&color=FF7B00&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sarthak;Hi+👋,+I'm+Sarthak;Hi+👋,+I'm+Sarthak" />
 </h1>
 
-
 ---
 
-<!-- 🔮 DYNAMIC TYPING (MATCHING THEME) -->
+<!-- 🔮 DYNAMIC TYPING -->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF7B00&center=true&vCenter=true&width=800&lines=Designing+Scalable+Backend+Systems;Exploring+AI%2FML+Integration;Writing+Clean+%26+Maintainable+Code;Building+Impactful+Projects;Always+Learning+%26+Improving" />
 </h3>
@@ -21,11 +20,9 @@
 
 ---
 
-<!-- 📊 STATS -->
+<!-- ✨ CLEAN DIVIDER (REPLACED BADGES) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthak83203&label=PROFILE+VIEWS&color=ff7b00&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sarthak83203?label=FOLLOWERS&style=for-the-badge&color=ff7b00" />
-  <img src="https://img.shields.io/github/stars/sarthak83203?label=STARS&style=for-the-badge&color=ff7b00" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7b00,100:5f0f40&height=3"/>
 </p>
 
 ---
